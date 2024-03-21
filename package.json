@@ -1,0 +1,25 @@
+{
+  "name": "ametexplicabo",
+  "version": "1.0.0",
+  "description": "Utility type for working with snapshot views of asynchronously-available data",
+  "author": "ErnaLind",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "license": "BSD-2-Clause",
+  "homepage": "https://github.com/JudsonGislason/ametexplicabo.git",
+  "devDependencies": {
+    "typescript": "^3.4.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JudsonGislason/ametexplicabo.git"
+  },
+  "keywords": [
+    "remote",
+    "totam",
+    "ea"
+  ],
+  "files": [
+    "lib/**/*"
+  ]
+}
